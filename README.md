@@ -9,4 +9,4 @@ I'm an accessibility nerd and, as a former designer, very interested in creating
 - 💬 Ask me about CSS, front-end build tooling, accessibility
 - 📫 Get in touch at [jonathan.sutcliffe@gov.scot](mailto:jonathan.sutcliffe@gov.scot) or [@jams_o_donnell](https://twitter.com/jams_o_donnell)
 - 🕺 My pronouns are he/him
-- ⚡ Fun fact: My home is surrounded by a farm. All the fun of the farm animals with none of the responsibility 🐑 🐄
+- 🐑 Fun fact: I live on farmland. All the fun of the farm animals with none of the responsibility.
