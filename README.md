@@ -9,4 +9,4 @@ I'm an accessibility nerd and, as a former designer, very interested in creating
 - 💬 Ask me about CSS, front-end build tooling, accessibility
 - 📫 Get in touch at [jonathan.sutcliffe@gov.scot](mailto:jonathan.sutcliffe@gov.scot) or [@jams_o_donnell](https://twitter.com/jams_o_donnell)
 - 🕺 I'm a boring he/himmer, but stating pronouns is good for everyone
-- 🏡 I love my garden and the creatures it attracts, and the wife who works so hard to tend it
+- 🖌️ I'm a bit of a Warhammer nerd, and though I'm no good at the playing of it I love painting tiny soldiers
