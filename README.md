@@ -5,8 +5,5 @@ I'm a front-end engineer at The Scottish Government, working on the nation-state
 I'm an accessibility nerd and, as a former designer, very interested in creating attractive and above all _usable_ user interfaces.
 
 - 🏗️ Lately I am mostly working on the [Digital Scotland Design System](https://github.com/scottishgovernment/pattern-library)
-- 🏫 Recent learning adventures have included: making things work well in Windows "high contrast" mode, getting a design system to work well in a restrictive environment (such as R/Shiny)
 - 💬 Ask me about CSS, front-end build tooling, accessibility
 - 📫 Get in touch at [jonathan.sutcliffe@gov.scot](mailto:jonathan.sutcliffe@gov.scot) or [@jams_o_donnell](https://twitter.com/jams_o_donnell)
-- 🕺 I'm a boring he/himmer, but stating pronouns is good for everyone
-- 🖌️ I'm a bit of a Warhammer nerd, and though I'm no good at the playing of it I love painting tiny soldiers
